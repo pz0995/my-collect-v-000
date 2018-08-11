@@ -9,3 +9,4 @@ def my_collect(collection)
     count|collection|
 
 end
+end
