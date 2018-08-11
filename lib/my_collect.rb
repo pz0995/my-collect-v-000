@@ -5,6 +5,7 @@ def my_collect(collection)
 
     yield array[i]
   end
+      collection = []
     count|collection|
-    collection = []
+
 end
