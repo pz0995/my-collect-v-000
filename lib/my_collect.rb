@@ -8,4 +8,3 @@ def my_collect(collection)
     count|collection|
     collection = []
 end
-end
